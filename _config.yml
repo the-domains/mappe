@@ -1,14 +1,14 @@
-layout_spectrum: 0.5553198035340756
-typography_spectrum: 0.31750061945058405
+layout_spectrum: 0.11435590893961489
+typography_spectrum: 0.7777305750641972
 color:
-  brandStrength: 0.8227178445085883
-  lightness: 0.6567511248867959
-  saturation: 0.217558705015108
-  rhythmicContrast: 0.5090260002762079
+  brandStrength: 0.4171624144073576
+  lightness: 0.6093752211891115
+  saturation: 0.14602638338692486
+  rhythmicContrast: 0.7523460714146495
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
 name: Mappe

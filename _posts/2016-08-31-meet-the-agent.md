@@ -1,0 +1,30 @@
+---
+datePublished: '2016-09-01T00:27:29.987Z'
+inFeed: true
+author: []
+via: {}
+dateModified: '2016-09-01T00:27:29.755Z'
+title: Meet The Agent
+publisher: {}
+description: >-
+  When people ask "what do you do?" I answer by saying, "I help people make one
+  of the biggest decisions of their life." I do this through a process of
+  strategic planning, cutting edge technology, speed to market, process
+  management, legal oversight, document certification, market analysis, showing
+  scheduling, property walkthrough insights, negotiation, conflict resolution,
+  vendor coordination, and multivariate marketing tactics.I am a real estate
+  advisor. Many of my clients have become friends and I am grateful how my life
+  is enriched by the people I work with.heres to a great partnership, 
+sourcePath: _posts/2016-08-31-meet-the-agent.md
+starred: false
+_type: Blurb
+
+---
+# Meet The Agent
+![DOUGLAS B. HORCH | REAL ESTATE ADVISOR](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa07436f-8076-44c2-8cf2-7169a2df453d.jpg)
+
+_When people ask "what do you do?" I answer by saying, "I help people make one of the biggest decisions of their life." _  
+I do this through a process of strategic planning, cutting edge technology, speed to market, process management, legal oversight, document certification, market analysis, showing scheduling, property walkthrough insights, negotiation, conflict resolution, vendor coordination, and multivariate marketing tactics.  
+I am a real estate advisor.   
+Many of my clients have become friends and I am grateful how my life is enriched by the people I work with.  
+heres to a great partnership,

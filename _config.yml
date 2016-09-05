@@ -1,16 +1,16 @@
-typography_spectrum: 0.31750061945058405
+layout_spectrum: 0.5184919680468738
+typography_spectrum: 0.424748363904655
 color:
-  brandStrength: 0.8227178445085883
-  lightness: 0.6567511248867959
-  saturation: 0.217558705015108
-  rhythmicContrast: 0.5090260002762079
+  brandStrength: 0.27070119325071573
+  lightness: 0.6741047862451524
+  saturation: 0.14764939667657018
+  rhythmicContrast: 0.20755065022967756
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-layout_spectrum: 0.5553198035340756
+    - '#69C1D7'
+    - '#F2591F'
+    - '#C7C6C4'
+    - '#F1F2ED'
+    - '#205462'
 author:
   name: Douglas Horch
   email: doug@mappehomes.com

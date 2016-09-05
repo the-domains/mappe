@@ -4,7 +4,7 @@
         <description><![CDATA[Mappe Real Estate]]></description>
         <link>https://thegrid.ai/mappe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 05:02:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 05:05:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mappe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -70,11 +70,11 @@
             <pubDate>Fri, 02 Sep 2016 04:51:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84e1661d-a532-4668-a4fb-c8a8b25ba8fd.jpg">]]></description>
-            <link>https://thegrid.ai/mappe/c76601cd-f4ee-444e-b831-30c8e143392e/index.html</link>
-            <guid isPermaLink="false">c76601cd-f4ee-444e-b831-30c8e143392e</guid>
-            <pubDate>Fri, 02 Sep 2016 05:01:44 GMT</pubDate>
+            <title><![CDATA[Meet The Advisor]]></title>
+            <description><![CDATA[<article><h1>Meet The Advisor</h1><p>When people ask "what do you do?" I answer by saying, "I help people make one of the biggest decisions of their life." </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa07436f-8076-44c2-8cf2-7169a2df453d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mappe/meet-the-agent/index.html</link>
+            <guid isPermaLink="false">3970a674-395e-4e8b-92c4-63f4a306c4e5</guid>
+            <pubDate>Fri, 02 Sep 2016 05:05:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

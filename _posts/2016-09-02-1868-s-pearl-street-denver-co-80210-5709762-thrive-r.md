@@ -28,11 +28,11 @@ app_links: []
 isBasedOnUrl: >-
   http://jill.smartdenverhomesearch.com/homes/1868-S-Pearl-Street/Denver/CO/80210/66195559/
 title: '1868 S Pearl Street, Denver, CO 80210 (#5709762) :: Thrive Real Estate Group'
-datePublished: '2016-09-02T05:41:30.640Z'
-dateModified: '2016-09-02T05:41:12.985Z'
+datePublished: '2016-09-02T05:45:26.271Z'
+dateModified: '2016-09-02T05:45:25.974Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-09-02-1868-s-pearl-street-denver-co-80210-5709762-thrive-r.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false

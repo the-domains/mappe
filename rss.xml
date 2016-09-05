@@ -4,7 +4,7 @@
         <description><![CDATA[Mappe Real Estate]]></description>
         <link>https://thegrid.ai/mappe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 05:42:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 05:44:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mappe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[5194 S Netherland Way, Centennial, CO 80015]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Fri, 02 Sep 2016 05:35:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[2833 Meade Street, Denver, CO 80211 (#1998120) :: Thrive Real Estate Group]]></title>
+            <description><![CDATA[<article><h1>2833 Meade Street, Denver, CO 80211 (#1998120) :: Thrive Real Estate Group</h1><p>Residential property for sale in Denver,CO (MLS #1998120). Learn more from Thrive Real Estate Group.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f80c4af475bc5b672b86ec83d2544e0f/noop.jpg?input=http%3A%2F%2Fphotos.boomtowncdn.com%2Fmetrolist%2F1280_boomver_1_1998120-1.jpg"></article>]]></description>
+            <link>http://jill.smartdenverhomesearch.com/homes/2833-Meade-Street/Denver/CO/80211/66187418/</link>
+            <guid isPermaLink="false">e821220c-56ef-419d-b298-af690fc3666d</guid>
+            <pubDate>Fri, 02 Sep 2016 05:44:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[6501 E Brown Place, Denver, CO 80224 (#4690428) :: Thrive Real Estate Group]]></title>
-            <description><![CDATA[<article><h1>6501 E Brown Place, Denver, CO 80224 (#4690428) :: Thrive Real Estate Group</h1><p>Residential property for sale in Denver,CO (MLS #4690428). Learn more from Thrive Real Estate Group. Two additional bedrooms and a third bathroom make this a nice retreat for guests.</p><img src="http://photos.boomtowncdn.com/metrolist/1280_boomver_1_4690428-1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>6501 E Brown Place, Denver, CO 80224 (#4690428) :: Thrive Real Estate Group</h1><p>Residential property for sale in Denver,CO (MLS #4690428). Learn more from Thrive Real Estate Group. Two additional bedrooms and a third bathroom make this a nice retreat for guests.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9d9f1569483d25132304cc9922918808/croprotate.jpg?cropheight=865&cropwidth=1280&degrees=0&input=http%3A%2F%2Fphotos.boomtowncdn.com%2Fmetrolist%2F1280_boomver_1_4690428-1.jpg&x=0&y=48"></article>]]></description>
             <link>http://jill.smartdenverhomesearch.com/homes/6501-E-Brown-Place/Denver/CO/80224/66192418/</link>
             <guid isPermaLink="false">82bef5f0-3043-4229-aa24-2141780fd052</guid>
             <pubDate>Fri, 02 Sep 2016 05:42:06 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://jill.smartdenverhomesearch.com/homes/4900-Tennyson-Street/Denver/CO/80212/66220454/</link>
             <guid isPermaLink="false">02b408dd-92ac-4612-9bb2-e1df91162007</guid>
             <pubDate>Fri, 02 Sep 2016 04:20:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3936 Newton Street, Denver, CO 80211 (#9812913) :: Thrive Real Estate Group]]></title>
-            <description><![CDATA[<article><h1>3936 Newton Street, Denver, CO 80211 (#9812913) :: Thrive Real Estate Group</h1><p>Residential property for sale in Denver,CO (MLS #9812913). Learn more from Thrive Real Estate Group. Parks, restaurants, retail & services galore in this A+ location with easy access to public transportation, I-70 & I-25.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c50e1ec6b2493d64e0df40a5f391eee1/croprotate.jpg?cropheight=805&cropwidth=1217&degrees=0&input=http%3A%2F%2Fphotos.boomtowncdn.com%2Fmetrolist%2F1280_boomver_1_9812913-1.jpg&x=33&y=78"></article>]]></description>
-            <link>http://jill.smartdenverhomesearch.com/homes/3936-Newton-Street/Denver/CO/80211/66216065/</link>
-            <guid isPermaLink="false">8b213bd6-f1e3-4d40-b476-069a8762517c</guid>
-            <pubDate>Fri, 02 Sep 2016 04:20:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

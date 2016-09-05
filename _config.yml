@@ -12,5 +12,9 @@ color:
     - '#2980B9'
 layout_spectrum: 0.5553198035340756
 name: Mappe | Denver
+navigation:
+  - name: Want to see all the homes for sale in Denver?
+    url: 'http://jill.smartdenverhomesearch.com/'
+    type: external
 title: Mappe Real Estate
 description: Put Yourself On The Map!

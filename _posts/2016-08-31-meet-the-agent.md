@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-01T00:27:29.987Z'
+datePublished: '2016-09-02T04:52:34.251Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T00:27:29.755Z'
+dateModified: '2016-09-02T04:52:33.782Z'
 title: Meet The Agent
 publisher: {}
 description: >-
@@ -16,8 +16,10 @@ description: >-
   advisor. Many of my clients have become friends and I am grateful how my life
   is enriched by the people I work with.heres to a great partnership, 
 sourcePath: _posts/2016-08-31-meet-the-agent.md
+hasPage: true
 starred: false
-_type: Blurb
+url: meet-the-agent/index.html
+_type: Article
 
 ---
 # Meet The Agent

@@ -4,7 +4,7 @@
         <description><![CDATA[Mappe Real Estate]]></description>
         <link>https://thegrid.ai/mappe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 04:58:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 05:02:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mappe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>http://jill.smartdenverhomesearch.com/homes/5194-S-Netherland-Way/Centennial/CO/80015/66183766/</link>
             <guid isPermaLink="false">cafe28e0-07dd-42da-b6a9-08904528d499</guid>
             <pubDate>Fri, 02 Sep 2016 04:55:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84e1661d-a532-4668-a4fb-c8a8b25ba8fd.jpg">]]></description>
-            <link>https://thegrid.ai/mappe/c76601cd-f4ee-444e-b831-30c8e143392e/index.html</link>
-            <guid isPermaLink="false">c76601cd-f4ee-444e-b831-30c8e143392e</guid>
-            <pubDate>Fri, 02 Sep 2016 04:58:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[1743 S Ivy Street, Denver, CO 80224 (#8785115) :: Thrive Real Estate Group]]></title>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/mappe/the-magic-thing-about-home-is-that-it-feels-good-to-leave/index.html</link>
             <guid isPermaLink="false">8d5d869a-d6bd-4fd0-a2f7-7c4dd137e746</guid>
             <pubDate>Fri, 02 Sep 2016 04:51:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84e1661d-a532-4668-a4fb-c8a8b25ba8fd.jpg">]]></description>
+            <link>https://thegrid.ai/mappe/c76601cd-f4ee-444e-b831-30c8e143392e/index.html</link>
+            <guid isPermaLink="false">c76601cd-f4ee-444e-b831-30c8e143392e</guid>
+            <pubDate>Fri, 02 Sep 2016 05:01:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

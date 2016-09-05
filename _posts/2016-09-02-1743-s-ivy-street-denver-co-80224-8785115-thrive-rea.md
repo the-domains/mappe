@@ -27,11 +27,11 @@ app_links: []
 isBasedOnUrl: >-
   http://jill.smartdenverhomesearch.com/homes/1743-S-Ivy-Street/Denver/CO/80224/66211192/
 title: '1743 S Ivy Street, Denver, CO 80224 (#8785115) :: Thrive Real Estate Group'
-datePublished: '2016-09-02T04:57:28.529Z'
-dateModified: '2016-09-02T04:57:18.751Z'
+datePublished: '2016-09-02T05:45:07.453Z'
+dateModified: '2016-09-02T05:45:07.179Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-09-02-1743-s-ivy-street-denver-co-80224-8785115-thrive-rea.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false

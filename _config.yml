@@ -21,7 +21,7 @@ navigation:
   - name: Want to see all the homes for sale in Denver?
     url: 'http://jill.smartdenverhomesearch.com/'
     type: external
-  - name: CALL US 303-573-SOLD
+  - name: CALL/TEXT 303-573-SOLD
     url: 'tel:3035737653'
     type: external
 title: Mappe Real Estate

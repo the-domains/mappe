@@ -27,11 +27,11 @@ app_links: []
 isBasedOnUrl: >-
   http://jill.smartdenverhomesearch.com/homes/3936-Newton-Street/Denver/CO/80211/66216065/
 title: '3936 Newton Street, Denver, CO 80211 (#9812913) :: Thrive Real Estate Group'
-datePublished: '2016-09-02T04:20:55.986Z'
-dateModified: '2016-09-02T04:18:44.619Z'
+datePublished: '2016-09-02T05:45:18.638Z'
+dateModified: '2016-09-02T05:45:18.277Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-09-02-3936-newton-street-denver-co-80211-9812913-thrive-re.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false

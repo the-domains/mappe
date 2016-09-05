@@ -11,6 +11,11 @@ color:
     - '#3498DB'
     - '#2980B9'
 layout_spectrum: 0.5553198035340756
+author:
+  name: Douglas Horch
+  email: doug@mappehomes.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/15e308ba-de8a-45b2-a39e-dd1487cd5888.jpg
 name: Mappe | Denver
 navigation:
   - name: Want to see all the homes for sale in Denver?

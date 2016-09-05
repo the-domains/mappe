@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-09-02T04:48:06.278Z'
+datePublished: '2016-09-02T04:51:15.561Z'
 author: []
 via: {}
-dateModified: '2016-09-02T04:47:59.505Z'
+dateModified: '2016-09-02T04:51:15.072Z'
 title: ''
 publisher: {}
 description: >-
   "The magic thing about home is that it feels good to leave, and it feels even
   better to come back."
-starred: false
 sourcePath: _posts/2016-09-02-the-magic-thing-about-home-is-that-it-feels-good-to-leave.md
+starred: false
 inFeed: true
 hasPage: true
 inNav: false

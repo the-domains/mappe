@@ -1,4 +1,3 @@
-layout_spectrum: 0.33003849745728076
 typography_spectrum: 0.6013546688482165
 color:
   brandStrength: 0.27070119325071573
@@ -11,6 +10,7 @@ color:
     - '#C7C6C4'
     - '#F1F2ED'
     - '#205462'
+layout_spectrum: 0.33003849745728076
 author:
   name: Douglas Horch
   email: doug@mappehomes.com
@@ -20,6 +20,9 @@ name: Mappe | Denver
 navigation:
   - name: Want to see all the homes for sale in Denver?
     url: 'http://jill.smartdenverhomesearch.com/'
+    type: external
+  - name: CALL US 303-573-SOLD
+    url: 'tel:3035737653'
     type: external
 title: Mappe Real Estate
 description: Put Yourself On The Map!

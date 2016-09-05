@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T03:57:15.841Z'
+datePublished: '2016-09-02T04:21:09.120Z'
 isBasedOnUrl: >-
   http://jill.smartdenverhomesearch.com/homes/5194-S-Netherland-Way/Centennial/CO/80015/66183766/
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-09-02T03:57:10.354Z'
+dateModified: '2016-09-02T04:21:08.864Z'
 title: '5194 S Netherland Way, Centennial, CO 80015'
 app_links: []
 publisher:
@@ -32,8 +32,8 @@ description: >-
   corner lot, big deck, finished lower level, Cherry Creek Schools, close to
   parks, trails, shopping and dining.
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-09-02-5194-s-netherland-way-centennial-co-80015.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false

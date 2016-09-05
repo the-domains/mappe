@@ -4,7 +4,7 @@
         <description><![CDATA[Mappe Real Estate]]></description>
         <link>https://thegrid.ai/mappe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 05:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 05:42:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mappe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[5194 S Netherland Way, Centennial, CO 80015]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Fri, 02 Sep 2016 05:35:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[6501 E Brown Place, Denver, CO 80224 (#4690428) :: Thrive Real Estate Group]]></title>
+            <description><![CDATA[<article><h1>6501 E Brown Place, Denver, CO 80224 (#4690428) :: Thrive Real Estate Group</h1><p>Residential property for sale in Denver,CO (MLS #4690428). Learn more from Thrive Real Estate Group. Two additional bedrooms and a third bathroom make this a nice retreat for guests.</p><img src="http://photos.boomtowncdn.com/metrolist/1280_boomver_1_4690428-1.jpg"></article>]]></description>
+            <link>http://jill.smartdenverhomesearch.com/homes/6501-E-Brown-Place/Denver/CO/80224/66192418/</link>
+            <guid isPermaLink="false">82bef5f0-3043-4229-aa24-2141780fd052</guid>
+            <pubDate>Fri, 02 Sep 2016 05:42:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[1868 S Pearl Street, Denver, CO 80210 (#5709762) :: Thrive Real Estate Group]]></title>
-            <description><![CDATA[<article><h1>1868 S Pearl Street, Denver, CO 80210 (#5709762) :: Thrive Real Estate Group</h1><p>Residential property for sale in Denver,CO (MLS #5709762). Learn more from Thrive Real Estate Group. Ultra-Rare, Live or Work, Walk-Everywhere, Mixed Zoning LOCATION! LOCATION! Fantastic Urban Contemporary Pied-a-terre Grand on Wonderful South Pearl in Platt Park!</p><img src="http://photos.boomtowncdn.com/metrolist/1280_boomver_1_5709762-1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>1868 S Pearl Street, Denver, CO 80210 (#5709762) :: Thrive Real Estate Group</h1><p>Residential property for sale in Denver,CO (MLS #5709762). Learn more from Thrive Real Estate Group. Ultra-Rare, Live or Work, Walk-Everywhere, Mixed Zoning LOCATION! LOCATION! Fantastic Urban Contemporary Pied-a-terre Grand on Wonderful South Pearl in Platt Park!</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e811e54809808ab502b36a48899ba7b5/noop.jpg?input=http%3A%2F%2Fphotos.boomtowncdn.com%2Fmetrolist%2F1280_boomver_1_5709762-1.jpg"></article>]]></description>
             <link>http://jill.smartdenverhomesearch.com/homes/1868-S-Pearl-Street/Denver/CO/80210/66195559/</link>
             <guid isPermaLink="false">9e99e673-4194-4c56-a6f0-9fc1c5ecdab3</guid>
             <pubDate>Fri, 02 Sep 2016 05:41:30 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://jill.smartdenverhomesearch.com/homes/3936-Newton-Street/Denver/CO/80211/66216065/</link>
             <guid isPermaLink="false">8b213bd6-f1e3-4d40-b476-069a8762517c</guid>
             <pubDate>Fri, 02 Sep 2016 04:20:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5295 Malta Street, Denver, CO 80249 (#7708906) :: Thrive Real Estate Group]]></title>
-            <description><![CDATA[<article><h1>5295 Malta Street, Denver, CO 80249 (#7708906) :: Thrive Real Estate Group</h1><p>Residential property for sale in Denver,CO (MLS #7708906). Learn more from Thrive Real Estate Group. This is a basement that you don't want to leave once you go down there.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/04c9e09d74046a246ad84934c71b34fe/noop.jpg?input=http%3A%2F%2Fphotos.boomtowncdn.com%2Fmetrolist%2F1280_boomver_1_7708906-1.jpg"></article>]]></description>
-            <link>http://jill.smartdenverhomesearch.com/homes/5295-Malta-Street/Denver/CO/80249/66214019/</link>
-            <guid isPermaLink="false">f4a6f0e7-a444-4366-b2bd-df6015827b08</guid>
-            <pubDate>Fri, 02 Sep 2016 04:20:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <description><![CDATA[Mappe Real Estate]]></description>
         <link>https://thegrid.ai/mappe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 04:58:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 04:58:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mappe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Fri, 02 Sep 2016 04:55:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84e1661d-a532-4668-a4fb-c8a8b25ba8fd.jpg">]]></description>
+            <link>https://thegrid.ai/mappe/c76601cd-f4ee-444e-b831-30c8e143392e/index.html</link>
+            <guid isPermaLink="false">c76601cd-f4ee-444e-b831-30c8e143392e</guid>
+            <pubDate>Fri, 02 Sep 2016 04:58:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[1743 S Ivy Street, Denver, CO 80224 (#8785115) :: Thrive Real Estate Group]]></title>
-            <description><![CDATA[<article><h1>1743 S Ivy Street, Denver, CO 80224 (#8785115) :: Thrive Real Estate Group</h1><p>Residential property for sale in Denver,CO (MLS #8785115). Learn more from Thrive Real Estate Group. With 3 bedrooms and 2 bathrooms, this property is sure to impress inside and out.</p><img src="http://photos.boomtowncdn.com/metrolist/1280_boomver_1_8785115-1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>1743 S Ivy Street, Denver, CO 80224 (#8785115) :: Thrive Real Estate Group</h1><p>Residential property for sale in Denver,CO (MLS #8785115). Learn more from Thrive Real Estate Group. With 3 bedrooms and 2 bathrooms, this property is sure to impress inside and out.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/90f050b16b4208a4198661c63e37ea5a/noop.jpg?input=http%3A%2F%2Fphotos.boomtowncdn.com%2Fmetrolist%2F1280_boomver_1_8785115-1.jpg"></article>]]></description>
             <link>http://jill.smartdenverhomesearch.com/homes/1743-S-Ivy-Street/Denver/CO/80224/66211192/</link>
             <guid isPermaLink="false">8a146525-c489-4850-b527-2675c3fba5d1</guid>
             <pubDate>Fri, 02 Sep 2016 04:57:28 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/mappe/the-magic-thing-about-home-is-that-it-feels-good-to-leave/index.html</link>
             <guid isPermaLink="false">8d5d869a-d6bd-4fd0-a2f7-7c4dd137e746</guid>
             <pubDate>Fri, 02 Sep 2016 04:51:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet The Advisor]]></title>
-            <description><![CDATA[<article><h1>Meet The Advisor</h1><p>When people ask "what do you do?" I answer by saying, "I help people make one of the biggest decisions of their life." I do this through a process of strategic planning, cutting edge technology, speed to market, process management, legal oversight, document certification, market analysis, showing scheduling, property walkthrough insights, negotiation, conflict resolution, vendor coordination, and multivariate marketing tactics.I am a real estate advisor. Many of my clients have become friends and I am grateful how my life is enriched by the people I work with.heres to a great partnership,</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa07436f-8076-44c2-8cf2-7169a2df453d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/mappe/meet-the-agent/index.html</link>
-            <guid isPermaLink="false">3970a674-395e-4e8b-92c4-63f4a306c4e5</guid>
-            <pubDate>Fri, 02 Sep 2016 04:53:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

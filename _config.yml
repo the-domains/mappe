@@ -24,5 +24,8 @@ navigation:
   - name: CALL/TEXT 303-573-SOLD
     url: 'tel:3035737653'
     type: external
+  - name: Real Estate Advisory
+    id: 3970a674-395e-4e8b-92c4-63f4a306c4e5
+    type: content
 title: Mappe Real Estate
 description: Put Yourself On The Map!

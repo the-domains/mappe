@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T04:21:09.120Z'
+datePublished: '2016-09-02T04:51:23.905Z'
 isBasedOnUrl: >-
   http://jill.smartdenverhomesearch.com/homes/5194-S-Netherland-Way/Centennial/CO/80015/66183766/
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-09-02T04:21:08.864Z'
+dateModified: '2016-09-02T04:51:22.852Z'
 title: '5194 S Netherland Way, Centennial, CO 80015'
 app_links: []
 publisher:

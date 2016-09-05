@@ -4,7 +4,7 @@
         <description><![CDATA[Mappe Real Estate]]></description>
         <link>https://thegrid.ai/mappe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 05:06:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 05:33:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mappe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>http://jill.smartdenverhomesearch.com/homes/5194-S-Netherland-Way/Centennial/CO/80015/66183766/</link>
             <guid isPermaLink="false">cafe28e0-07dd-42da-b6a9-08904528d499</guid>
             <pubDate>Fri, 02 Sep 2016 04:55:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3115 N York Street, Denver, CO 80205 (#6957479) :: Thrive Real Estate Group]]></title>
+            <description><![CDATA[<article><h1>3115 N York Street, Denver, CO 80205 (#6957479) :: Thrive Real Estate Group</h1><p>Residential property for sale in Denver,CO (MLS #6957479). Learn more from Thrive Real Estate Group. The entire house is filled with designer finishes and custom details: Entire 5-piece master bath finished with carrera marble and heated floors, custom metal work, built-ins and light fixtures, exposed brick and an oversized master balcony with city and mountain views!</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fd424636c4b9b3f78dad5d08a270a126/croprotate.jpg?cropheight=865&cropwidth=1280&degrees=0&input=http%3A%2F%2Fphotos.boomtowncdn.com%2Fmetrolist%2F1280_boomver_1_6957479-1.jpg&x=0&y=48"></article>]]></description>
+            <link>http://jill.smartdenverhomesearch.com/homes/3115-N-York-Street/Denver/CO/80205/66208196/</link>
+            <guid isPermaLink="false">ee71856b-4e6a-4619-b76a-9198ebbfb8c9</guid>
+            <pubDate>Fri, 02 Sep 2016 05:33:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[1743 S Ivy Street, Denver, CO 80224 (#8785115) :: Thrive Real Estate Group]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/mappe/the-magic-thing-about-home-is-that-it-feels-good-to-leave/index.html</link>
             <guid isPermaLink="false">8d5d869a-d6bd-4fd0-a2f7-7c4dd137e746</guid>
             <pubDate>Fri, 02 Sep 2016 04:51:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet The Advisor]]></title>
-            <description><![CDATA[<article><h1>Meet The Advisor</h1><p>When people ask "what do you do?" I answer by saying, "I help people make one of the biggest decisions of their life." </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa07436f-8076-44c2-8cf2-7169a2df453d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/mappe/meet-the-agent/index.html</link>
-            <guid isPermaLink="false">3970a674-395e-4e8b-92c4-63f4a306c4e5</guid>
-            <pubDate>Fri, 02 Sep 2016 05:05:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
